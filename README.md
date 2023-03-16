@@ -3,7 +3,7 @@ Um site com as seguintes funções:
 <ol>
   <li>arquivos css e js separados</li>
   <li>Verificação de idade com subtração do ano de nascimento com atual</li>
-  <li>Verificação ded genêro</li>
+  <li>Verificação de genêro</li>
   <li>imagem de acordo com a idade</li>
 </ol>
 
